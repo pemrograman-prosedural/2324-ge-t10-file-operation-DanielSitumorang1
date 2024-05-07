@@ -1,0 +1,1 @@
+cara memanggil sebuah data yang sudah tersedia dalam sebuah storage dalam bahasa c

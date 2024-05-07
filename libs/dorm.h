@@ -18,5 +18,7 @@ struct dorm_t
 };
 
 struct dorm_t create_dorm(char *_name, unsigned short _capacity, enum gender_t _gender);
+void dorm_print_all_detail(struct dorm_t *dorms, int i)
+void dorm_print_all(struct dorm_t *dorms,int i) 
 
 #endif

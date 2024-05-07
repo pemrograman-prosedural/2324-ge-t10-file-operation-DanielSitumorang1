@@ -13,4 +13,6 @@ enum gender_t
     GENDER_FEMALE
 };
 
+char *gender_to_text(enum gender_t _gender);
+
 #endif
